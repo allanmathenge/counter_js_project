@@ -1,0 +1,16 @@
+
+
+
+
+.slide-container{
+    position: relative;
+    max-width: 80rem;
+}
+.slide{
+    position: absolute;
+    width: 100%;
+}
+.slide img{
+    height: 100%;
+    object-fit: cover;
+}
